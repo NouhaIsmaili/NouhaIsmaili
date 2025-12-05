@@ -1,44 +1,93 @@
-# Hi, I'm Nouha 👋  
+<h1 align="center">✨ Hi, I'm Nouha 👋 ✨</h1>
 
-🎓 IT Student specialized in Information Systems  
-💻 Angular | Spring Boot | Node.js | MySQL | Microservices  
-🤖 Face Recognition | Data Warehouse | Metabase  
-🚀 Passionate about building real-world secure web applications  
+<p align="center">
+  <b>IT Student | Full-Stack Developer | Future Software Engineer 🚀</b>
+</p>
 
----
-
-## 🧠 About Me  
-I'm a second-year IT student focused on full-stack web development.  
-I enjoy building secure, scalable, and real-world applications using modern technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Angular+%7C+Spring+Boot+Developer;Microservices+%7C+MySQL+%7C+Node.js;Face+Recognition+%7C+Data+Warehouse;Always+Learning+%26+Building+🚀" />
+</p>
 
 ---
 
-## 🔥 Technical Skills  
-
-- Frontend: Angular, TypeScript, HTML, CSS  
-- Backend: Spring Boot, Node.js  
-- Databases: MySQL  
-- Architecture: Microservices  
-- Data: Data Warehouse, Metabase  
-- AI: Face Recognition (face-api.js)  
-- Tools: Git, Postman, Docker, VMware  
+## 👩‍🎓 About Me  
+- 👤 **Name:** Nouha  
+- 🎓 **Role:** IT Student (Information Systems)  
+- 🎯 **Goal:** Building secure, scalable, and real-world applications  
+- ❤️ **Passion:** Web Development, AI & System Design  
+- 🎨 **Interests:** Technology, Creativity, Problem Solving  
 
 ---
 
-## 🚀 Featured Projects (Coming Soon)  
+## 🌐 Connect With Me  
 
-- 🏋️ Gym Access Control System (Angular & Spring Boot + Face Recognition)  
-- 🤝 Volunteering Platform (Angular & Spring Boot)  
-- 🍔 Food Delivery Microservices  
-- 🔐 Modular Authentication System  
-
----
-
-## 📫 Contact  
-
-- LinkedIn: (add your link here)  
-- Email: (add your professional email)
+- 📫 **Email:** your-email@gmail.com  
+- 💼 **LinkedIn:** your-link-here  
+- 📄 **Resume (CV):** Coming Soon  
 
 ---
 
-⭐ Always learning. Always building.
+## 🛠️ Skills  
+
+### 💻 Programming Languages  
+`Java` `Python` `JavaScript` `TypeScript` `C` `PHP`  
+
+### 🧩 Frameworks & Libraries  
+`Angular` `Spring Boot` `Node.js` `Express` `React` `Bootstrap`  
+
+### 🗄️ Databases  
+`MySQL` `MongoDB` `PostgreSQL`  
+
+### ⚙️ Tools & Technologies  
+`Git` `Postman` `Docker` `VS Code` `VMware`  
+
+### 🧠 Architecture & Methods  
+`Microservices` `Clean Architecture` `Agile (Scrum)`  
+
+---
+
+## 💼 Experience  
+
+### 🏢 Sofiatech — Internship  
+📅 *2024–2025*  
+- Development of a **modular authentication system**
+- Secure login with **JWT**
+- Password reset with **Nodemailer**
+- Angular Guards & MySQL integration  
+
+**Tech Stack:** Angular, Node.js, MySQL, JWT  
+
+---
+
+## 💻 Projects  
+
+### 🏋️ Gym Access Control System  
+**Overview:** Full-stack gym management system with **face recognition for access control**  
+**Tech Stack:** Angular, Spring Boot, MySQL, face-api.js  
+
+---
+
+### 🤝 Volunteering Platform  
+**Overview:** Platform for managing volunteers, organizations, missions & donations  
+**Tech Stack:** Angular, Spring Boot, MySQL  
+
+---
+
+### 🍔 Food Delivery Microservices  
+**Overview:** Distributed system with Order, Kitchen, Courier & Restaurant services  
+**Tech Stack:** Spring Boot, Microservices Architecture  
+
+---
+
+### 📊 Data Warehouse & Metabase  
+**Overview:** Star schema, ETL & interactive dashboards with drill-down analysis  
+**Tech Stack:** MySQL, Pentaho, Metabase  
+
+---
+
+## 🔥 Fun Fact  
+> I don’t just code apps… I build **systems that make sense** ⚙️✨  
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
