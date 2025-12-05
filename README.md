@@ -4,9 +4,6 @@
   <b>IT Student | Full-Stack Developer | Future Software Engineer 🚀</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Angular+%7C+Spring+Boot+Developer;Microservices+%7C+MySQL+%7C+Node.js;Face+Recognition+%7C+Data+Warehouse;Always+Learning+%26+Building+🚀" />
-</p>
 
 ---
 
@@ -21,9 +18,9 @@
 
 ## 🌐 Connect With Me  
 
-- 📫 **Email:** your-email@gmail.com  
-- 💼 **LinkedIn:** your-link-here  
-- 📄 **Resume (CV):** Coming Soon  
+- 📫 **Email:** nouhasmaili3@gmail.com  
+- 💼 **LinkedIn:** www.linkedin.com/in/nouha-ismaili  
+  
 
 ---
 
@@ -83,10 +80,6 @@
 **Overview:** Star schema, ETL & interactive dashboards with drill-down analysis  
 **Tech Stack:** MySQL, Pentaho, Metabase  
 
----
-
-## 🔥 Fun Fact  
-> I don’t just code apps… I build **systems that make sense** ⚙️✨  
 
 ---
 
